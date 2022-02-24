@@ -1,4 +1,3 @@
-// this is how we benchmark our top k hitters
 use rand::{
     Rng,
     thread_rng, 
